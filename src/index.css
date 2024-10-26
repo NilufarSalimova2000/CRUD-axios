@@ -1,0 +1,51 @@
+ul, ol {
+    list-style: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.block {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.item {
+    padding: 15px;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.delete_btn {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    margin-right: 10px;
+}
+
+.edit_btn {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+}
+
+.input {
+    padding: 15px;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.create_btn {
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(119, 186, 119);
+    margin-bottom: 15px;
+}
